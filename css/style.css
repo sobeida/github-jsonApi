@@ -1,0 +1,46 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+    background-color: white;
+    font-family: 'Roboto Mono', monospace;
+}
+
+.container {
+    background-color: #333300;
+    margin-top: 70px;
+    /* border: 1px solid blue; */
+    border-radius: 8px;
+}
+
+div.panel-heading {
+    color: red;
+    border-radius: 8px;
+}
+
+#userForm {
+    padding: 8px auto 6px auto;
+    margin-top: 20px;
+    border: 2px solid white;
+    border-radius: 6px;
+}
+
+.form-group {
+    padding: 30px;
+}
+
+#username {
+    color: #333300;
+}
+
+.form-control {
+    background-color: red;
+}
+
+#profile {
+    background-color: aqua;
+}
+
+img {
+    width: 100%
+}
